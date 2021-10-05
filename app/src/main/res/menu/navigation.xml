@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_all"
+        android:icon="@drawable/ic_all"
+        android:title="All"/>
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/ic_movie_peq"
+        android:title="Movies"/>
+
+    <item
+        android:id="@+id/navigation_series"
+        android:icon="@drawable/ic_serie_peq"
+        android:title="Series"/>
+
+</menu>
